@@ -13,8 +13,6 @@
   
   ##
   
-  <img align="center" alt="banner" style="border-radius:50px;" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw3Kw_wLkodqgRuBP5a_A9z-&ust=1675824198480000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCNC7_-Kxgv0CFQAAAAAdAAAAABAE">
-  
   ##
  
 <div> 
