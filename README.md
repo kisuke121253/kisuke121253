@@ -22,7 +22,7 @@
   <a href="https://www.linkedin.com/in/joão-pedro-lacerda-sousa-0ab308244/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
  
-  ![Snake Animation](https://github.com/kisuke121253/Ka9ddc/blob/output/github-contribution-grid-snake.svg)
+  ![Snake Animation](https://github.com/kisuke121253/kisuke121253/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
