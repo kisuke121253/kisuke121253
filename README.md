@@ -1,4 +1,6 @@
-## Hello, I'm João Pedro Lacerda and I'm a university student studying software engineering and trying to be a web developer
+## Hello, I'm João Pedro Lacerda
+💻 - studying softare engineering
+💼 - Web developer
 <div align="center">
   <a href="https://github.com/kisuke121253">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kisuke121253&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -16,12 +18,11 @@
   ##
  
 <div> 
-  <a href="https://twitter.com/ka9ddc" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a>
-  <a href = "mailto:ka9ddcgamer@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ryan-micael-aab9291b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://codepen.io/ka9ddc/" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
+  <a href = "mailto:jpedro121256@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/joão-pedro-lacerda-sousa-0ab308244/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
  
-  ![Snake Animation](https://github.com/Ka9ddc/Ka9ddc/blob/output/github-contribution-grid-snake.svg)
+  ![Snake Animation](https://github.com/kisuke121253/Ka9ddc/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
