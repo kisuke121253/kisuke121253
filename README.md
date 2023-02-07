@@ -1,6 +1,6 @@
-## Bom dia eu sou o Ryan Micael, estudante do ensino médio e amante da programação!
+## Hello, I'm João Pedro Lacerda and I'm a university student studying software engineering and trying to be a web developer
 <div align="center">
-  <a href="https://github.com/Ka9ddc">
+  <a href="https://github.com/kisuke121253">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ka9ddc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ka9ddc&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
