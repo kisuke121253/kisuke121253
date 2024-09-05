@@ -1,6 +1,6 @@
 ## Hello, I'm João Pedro Lacerda Sousa
 💻 - Studying Software Engineering (Universidade Norte do Paraná)
-💼 - Software Developer | CRIA Incubator (Oct 2023 - Aug 2024)
+💼 - Software Developer 
 
 I'm a passionate and dedicated software engineer in training, with hands-on experience in both front-end and back-end development. I specialize in leveraging emerging technologies and artificial intelligence to create innovative software solutions. I have experience with agile methodologies (Kanban, Scrum) and a wide range of technologies, including React, Vite, Next.js, Node.js, Django, Flask, Firebase, and more.
 
